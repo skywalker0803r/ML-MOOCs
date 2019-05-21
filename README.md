@@ -4,8 +4,11 @@
 
 ### Regression
 
-- Predicting house prices (Linear Regression)
+- Predicting house prices
+	- Simple/Multiple Linear Regression
+	- Ridge Regression (and K-Fold Cross Validation)
 
 ### Classification
 
-- Predicting sentiment from product reviews (Logistic Regression)
+- Predicting sentiment from product reviews
+	- Logistic Regression
