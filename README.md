@@ -14,3 +14,6 @@
 
 - Predicting sentiment from product reviews
 	- Logistic Regression (and MLE)
+	- Logistic Regression with L2 Regularization
+- Identifying safe loans
+	- Decision Trees
