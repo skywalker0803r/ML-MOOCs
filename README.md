@@ -17,3 +17,5 @@
 	- Logistic Regression with L2 Regularization
 - Identifying safe loans
 	- Decision Trees
+	- AdaBoost
+	- Gradient Boosting
