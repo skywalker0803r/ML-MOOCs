@@ -1,5 +1,7 @@
 **/.ipynb_checkpoints
 **/*.Rhistory
 
+uw-ml/regression/data/
 uw-ml/classification/data/
 uw-ml/classification/references/
+uw-ml/clustering/data/
