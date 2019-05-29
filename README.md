@@ -1,6 +1,6 @@
 # Machine Learning MOOCs
 
-## UW Machine Learning
+## UW Machine Learning Specialization
 
 ### Regression
 
@@ -19,3 +19,8 @@
 	- Decision Trees
 	- AdaBoost
 	- Gradient Boosting
+
+### Clustering
+
+- Images Clustering
+	- Gaussian Mixture Model (EM)
