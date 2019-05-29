@@ -22,5 +22,5 @@
 
 ### Clustering
 
-- Images Clustering
+- Images clustering
 	- Gaussian Mixture Model (EM)
