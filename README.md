@@ -5,15 +5,15 @@
 ### Regression
 
 - Predicting house prices
-	- Simple/Multiple Linear Regression (and Gradient Descent)
-	- Ridge Regression (and k-Fold Cross Validation)
-	- LASSO Regression (and Coordinate Descent)
+	- Simple/Multiple Linear Regression (Gradient Descent)
+	- Ridge Regression (k-Fold Cross Validation)
+	- LASSO Regression (Coordinate Descent)
 	- kNN Regression
 
 ### Classification
 
 - Predicting sentiment from product reviews
-	- Logistic Regression (and MLE)
+	- Logistic Regression (MLE)
 	- Logistic Regression with L2 Regularization
 - Identifying safe loans
 	- Decision Trees
