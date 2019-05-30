@@ -23,6 +23,6 @@
 ### Clustering
 
 - Wiki pages retrieval
-	- Nearest Neighbors Search (TF-IDF, cosine distance)
+	- Nearest Neighbors Search (TF-IDF, cosine distance, LSH)
 - Images clustering
 	- Gaussian Mixture Model (EM)
