@@ -22,7 +22,8 @@
 
 ### Clustering
 
-- Wiki pages retrieval
+- Wiki pages retrieval and clustering
 	- Nearest Neighbors Search (TF-IDF, cosine distance, LSH)
+	- k-Means and k-Means++ (MapReduce)
 - Images clustering
 	- Gaussian Mixture Model (EM)
