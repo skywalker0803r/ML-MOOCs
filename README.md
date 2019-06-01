@@ -25,5 +25,6 @@
 - Wiki pages retrieval and clustering
 	- Nearest Neighbors Search (TF-IDF, cosine distance, LSH)
 	- k-Means and k-Means++ (MapReduce)
+	- Hierarchical Clustering
 - Images clustering
 	- Gaussian Mixture Model (EM)
