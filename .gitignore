@@ -1,8 +1,5 @@
 **/.ipynb_checkpoints
 **/__pycache__
 **/*.Rhistory
-
-uw-ml/regression/data/
-uw-ml/classification/data/
-uw-ml/classification/references/
-uw-ml/clustering/data/
+**/data
+**/references
