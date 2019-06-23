@@ -1,8 +1,6 @@
-# Machine Learning MOOCs
+# UW Machine Learning Specialization
 
-## UW Machine Learning Specialization
-
-### Regression
+## Regression
 
 - Predicting house prices
 	- Simple/Multiple Linear Regression (Gradient Descent)
@@ -10,7 +8,7 @@
 	- LASSO Regression (Coordinate Descent)
 	- kNN Regression
 
-### Classification
+## Classification
 
 - Predicting sentiment from product reviews
 	- Logistic Regression (MLE)
@@ -20,7 +18,7 @@
 	- AdaBoost
 	- Gradient Boosting
 
-### Clustering
+## Clustering
 
 - Wiki pages retrieval and clustering
 	- Nearest Neighbors Search (TF-IDF, cosine distance, LSH)
