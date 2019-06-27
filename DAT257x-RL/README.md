@@ -12,4 +12,4 @@
 		- Epsilon-Greedy
 	- Logarithmic Regret
 		- Upper Confidence Bound (UCB)
-		- Posterior Sampling (Thompson Beta)
+		- Posterior Sampling (Thompson Sampling)
