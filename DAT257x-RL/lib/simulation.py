@@ -210,7 +210,7 @@ class Experiment(object):
                 episode_running_variance=np.zeros(max_number_of_episodes))
             plotting.plot_episode_stats(stats, display_frequency)
             
-    def run_sarsa(self, max_number_of_episodes=100, interactive = False, display_frequency=1):
+    def run_sarsa(self, max_number_of_episodes=100, interactive=False, display_frequency=1):
 
         # repeat for each episode
         for episode_number in range(max_number_of_episodes):
