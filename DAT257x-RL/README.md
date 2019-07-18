@@ -42,5 +42,8 @@
 
 - Likelihood Ratio Method
 - REINFORCE
+- Baseline REINFORCE
 
 ## Actor Critic
+
+- A3C
